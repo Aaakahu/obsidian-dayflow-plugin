@@ -1,0 +1,41 @@
+{
+  "capturesFolder": "DayFlow/Captures",
+  "schedulesFolder": "DayFlow/Schedules",
+  "journalsFolder": "DayFlow/Journals",
+  "feedbackTrigger": "immediate",
+  "aiProvider": "deepseek",
+  "deepseekApiKey": "your-deepseek-api-key-here",
+  "deepseekModel": "deepseek-chat",
+  "customBaseUrl": "https://api.openai.com/v1",
+  "customApiKey": "",
+  "customModel": "gpt-4o",
+  "temperature": 0.3,
+  "knowledgeBaseFolder": "",
+  "habits": [
+    "练字",
+    "英语学习"
+  ],
+  "habitTemplates": {
+    "前额叶训练": "昨日\n---\n- [ ] 色情/性幻想次数： \n      \n- [ ] 降低睡前音频依赖：\n\t- [ ] 减少时间依赖\n\t- [ ] 无剧情音频 \n\n**昨日总评 / 备注**\n- [ ] 昨日亮点（1件正面的事）：\n- [ ] 触发冲动的时刻与感受：\n- [ ] 昨日最有效的替代方案：\n- [ ] 今日重点加强项：\n\n---"
+  },
+  "projects": [
+    "#项目1",
+    "#项目2"
+  ],
+  "floatingButtonEnabled": true,
+  "floatingButtonPosition": "status-bar",
+  "autoOpenYesterdaySchedule": true,
+  "skipAutoOpenDate": "",
+  "orbEnabled": true,
+  "orbPosition": {
+    "x": 1270,
+    "y": 355,
+    "edge": "none"
+  },
+  "orbPinned": false,
+  "projectCacheTTL": 30000,
+  "timelineDefaultDays": 10,
+  "claudeApiKey": "",
+  "claudeModel": "claude-3-sonnet-20240229",
+  "localBaseUrl": "http://localhost:11434"
+}

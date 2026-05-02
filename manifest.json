@@ -1,0 +1,9 @@
+{
+  "id": "dayflow",
+  "name": "DayFlow",
+  "version": "1.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "日程流：闪念记录、日程管理、行动打卡、心绪闪念 + 悬浮球快速入口",
+  "author": "DayFlow",
+  "isDesktopOnly": false
+}

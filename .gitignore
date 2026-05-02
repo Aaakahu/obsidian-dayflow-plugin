@@ -1,0 +1,16 @@
+# User config (contains sensitive API keys)
+data.json
+
+# Temporary files
+~$*
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Node modules (if you add build tools later)
+node_modules/
+.env
+
+# Build outputs
+dist/
+build/
